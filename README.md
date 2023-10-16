@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Business Intelligence Analyst at <div> <a href="https://alicerceedu.com.br/"> </div>
+- 🔭 I’m currently working on Business Intelligence Analyst at @Alicerceedu
 - 💬 Ask me about Physics and Education
 ## Technologies used
 
