@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Business Intelligence Analyst at <a href="https://alicerceedu.com.br/">
+- 🔭 I’m currently working on Business Intelligence Analyst at <div> <a href="https://alicerceedu.com.br/"> </div>
 - 💬 Ask me about Physics and Education
 ## Technologies used
 
