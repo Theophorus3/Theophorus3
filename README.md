@@ -1,4 +1,4 @@
-### Hello, I'm Eron 👋
+## Hello, I'm Eron 👋
 
 <!--
 **Theophorus3/Theophorus3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
